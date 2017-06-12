@@ -1,0 +1,30 @@
+
+	body  {
+		background-image: url(../images/pozadina.jpg);
+		background-color: #cccccc;
+	}
+	#omotac
+	{
+		background-color:black;
+		color:white;
+		margin: 0 auto;
+		border-radius:10px;
+		width:80%;
+		opacity:0.8;
+	}
+	#menu{
+		text-align:right;
+	}
+	#context{
+		position:relative;
+		width: 60%;
+		left:40%;
+	}
+	li{
+		display:inline-block;
+	}
+	
+	button{
+		border-radius:10px;
+		background-color:green;
+	}
